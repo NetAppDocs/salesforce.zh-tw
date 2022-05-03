@@ -1,0 +1,116 @@
+---
+sidebar: sidebar 
+permalink: task_downloading_export_data.html 
+keywords: netapp, saas backup, salesforce, viewing, downloading, export, data 
+summary: 您可以使用匯出至資料功能來下載附件、結果和統計資料。 
+---
+= 正在下載匯出資料
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+您可以在物件和組織層級匯出資料。您可以針對每個匯出、從先前的備份下載附件、結果和統計資料。
+
+
+
+== 物件層級匯出
+
+.步驟
+. 在左窗格導覽中、按一下*服務*。image:services.jpg[""]
+. 按一下*正式作業執行個體*或*沙箱執行個體*。image:production_instances.gif["影像顯示正式作業執行個體方塊"]
+image:sandbox_instances.gif["影像顯示沙箱執行個體方塊"]
+. 按一下*受保護的執行個體*數目。image:protected_instances_screenshot.gif["圖顯示受保護的執行個體"]
+. 按一下組織名稱。image:organization.jpg["影像顯示按一下組織名稱的位置"]
+. 選取您要匯出的物件、然後按一下*還原*。image:restore.jpg["圖顯示還原按鈕"]
+. 如有需要、請選取*還原關係*或*還原檔案/附件*、將其納入匯出。
++
+
+NOTE: 如果您選取*還原關係*、則工作會匯出選取的物件及其所有關係物件。如果您未選取*還原關係*、則工作只會匯出選取的物件。
+
+. 按一下*提交*。
+. 按一下左窗格導覽中的*工作*、即可檢視還原工作。
+. 按一下*物件總數*或*成功*、即可查看工作詳細資料及下載選項。
++
+.. 對於使用*還原檔案/附件*的匯出工作、您有三種下載選項：
++
+... 如需結果、請按一下 image:export_data_download_link.gif["圖顯示匯出資料下載連結按鈕"]。
++
+.... 在您的搜尋工具中、找到下載的.tar.gz檔案。
+.... 解壓縮檔案以取得.tar檔案。
+.... 擷取.tar檔案以查看Excel結果。
+
+
+... 如需附件、請按一下 image:attachments_download_link.gif["圖顯示附件下載連結"]。
++
+.... 在您的搜尋工具中、找到下載的.tar.gz檔案。
+.... 解壓縮檔案以取得.tar檔案。
+.... 擷取.tar檔案以查看附件。
+
+
+... 如需統計報告、請按一下 image:download.gif["圖顯示下載連結"]。
+
+
+.. 對於不需要*還原檔案/附件*的匯出工作、您有兩個下載選項：
++
+... 如需結果、請按一下 image:export_data_download_link.gif["圖顯示匯出資料下載連結"]。
+... 如需統計報告、請按一下 image:download.gif["圖顯示下載連結"]。
+
+
+
+
+
+
+
+
+== 組織層級匯出
+
+.步驟
+. 在左窗格導覽中、按一下*服務*。image:services.jpg[""]
+. 按一下*正式作業執行個體*或*沙箱執行個體*。image:production_instances.gif["影像顯示正式作業執行個體方塊"]
+image:sandbox_instances.gif["影像顯示沙箱執行個體方塊"]
+. 按一下*受保護的執行個體*數目。image:protected_instances_screenshot.gif["圖顯示受保護的執行個體"]
+. 選取*層級*。image:tier_selection.gif["圖顯示階層下拉式清單"]
+. 按一下「*還原*」、然後按「*匯出資料*」選項。image:restore_export_data.gif["影像顯示含有匯出選項的還原下拉式清單"]
+. 如有需要、請按一下*還原檔案/附件*、將其納入匯出。
+. 按一下*提交*。
+. 按一下左窗格導覽中的*工作*、即可檢視還原工作。
+. 按一下*「Total」（組織總數）*或*「Successful」（成功）*、即可查看工作詳細資料及下載選項。
++
+.. 對於使用*還原檔案/附件*的匯出工作、您有三種下載選項：
++
+... 如需結果、請按一下 image:export_data_download_link.gif["圖顯示匯出資料下載連結按鈕"]。
++
+.... 在您的搜尋工具中、找到下載的.tar.gz檔案。
+.... 解壓縮檔案以取得.tar檔案。
+.... 擷取.tar檔案以查看Excel結果。
+
+
+... 如需附件、請按一下 image:attachments_download_link.gif["圖顯示附件下載連結"]。
++
+.... 在您的搜尋工具中、找到下載的.tar.gz檔案。
+.... 解壓縮檔案以取得.tar檔案。
+.... 擷取.tar檔案以查看附件。
+
+
+... 如需統計報告、請按一下 image:download.gif["圖顯示下載連結"]。
+
+
+.. 對於不需要*還原檔案/附件*的匯出工作、您有兩個下載選項：
++
+... 如需結果、請按一下 image:export_data_download_link.gif["圖顯示匯出資料下載連結"]。
+... 如需統計報告、請按一下 image:download.gif["圖顯示下載連結"]。
+
+
+
+
+

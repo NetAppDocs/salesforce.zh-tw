@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: concept_get_help_find_info.html 
+keywords: where to find more information, help, support 
+summary: 您可以在NetApp SaaS Backup for Salesforce社群論壇和知識庫文章中取得協助並尋找更多資訊。 
+---
+= 何處可取得協助及尋找更多資訊
+:toc: macro
+:hardbreaks:
+:allow-uri-read: 
+:toc: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+您可以在NetApp SaaS Backup for Salesforce社群論壇和知識庫文章中取得協助並尋找更多資訊。
+
+您可以透過導覽功能表上的* Support*連結、在SaaS備份中存取這些資源。
+
+您也可以寄送電子郵件至saasbackupsupport@netapp.com與SaaS備份支援團隊聯絡。

@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: task_downloading_activity_log.html 
+keywords: netapp, saas backup, salesforce, viewing, downloading, activity, log 
+summary: 您可以將活動記錄下載至一個.csf檔案。 
+---
+= 下載活動記錄
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+您可以將活動記錄下載至一個.csf檔案。
+
+.步驟
+. 在左窗格導覽中、按一下*報告*。image:reporting.jpg[""]
+. 按一下*活動記錄*。
+. 按一下*下載*。image:download.jpg[""]活動記錄會下載為.csf檔案。
+

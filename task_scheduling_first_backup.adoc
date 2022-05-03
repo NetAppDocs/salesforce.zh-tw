@@ -1,0 +1,44 @@
+---
+sidebar: sidebar 
+permalink: scheduling_first_backup.html 
+keywords: netapp, saas backup, salesforce, moving, organization, different, backup, tier 
+summary: 在沙箱或正式作業執行個體中的資料受到保護之後、您可以隨時選擇將其移至不同的備份層。 
+---
+= 排程備份或變更備份頻率
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+如果您在SaaS Backup for Salesforce中新增沙箱執行個體、依預設、沙箱中的所有資料都不會受到保護、直到您手動將其移至受保護的備份層為止。在沙箱或正式作業執行個體中的資料受到保護之後、您可以隨時選擇將其移至不同的備份層。
+
+.步驟
+. 在左窗格導覽中、按一下*服務*。
++
+image:services.jpg[""]
+
+. 如果您要在正式作業執行個體中移動組織、請按一下*正式作業執行個體*。
++
+image:production_instances.gif[""]如果您要在沙箱執行個體中移動組織、請按一下*沙箱執行個體*。
+
++
+image:sandbox_instances.gif[""]
+
+. 針對您要移動的組織、選取正確的執行個體類別。
++
+** 如果您要移動的組織目前受到備份原則的保護、請按一下上面*受保護的執行個體*的數字。
+** 如果您要移動的組織的備份狀態為擱置中、請按一下*擱置執行個體*上方的數字。
+** 如果您要移動的組織目前未受備份原則保護、請按一下上面*未受保護的執行個體*的數字。
+
+
+. 選取新的階層。只有第2層和第3層備份可供沙箱執行個體使用。沙箱執行個體無法在層級1原則下備份。正式作業執行個體可以位於層級1原則中、也可以不受保護。正式作業執行個體無法在層級2或層級3原則下備份。將組織移至新的備份層。
+

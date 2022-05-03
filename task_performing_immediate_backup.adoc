@@ -1,0 +1,41 @@
+---
+sidebar: sidebar 
+permalink: task_performing_immediate_backup.html 
+keywords: netapp, saas backup, salesforce, managing, backups, immediate, backup, policies 
+summary: 您可以使用SaaS Backup for Salesforce來備份資料。 
+---
+= 執行立即備份
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+您可以隨時視需要執行正式作業或沙箱執行個體的立即備份、以保護資料。
+
+
+NOTE: 對於試用版的SaaS Backup for Salesforce、您每天只能執行三次立即備份。
+
+.步驟
+. 在左窗格導覽中、按一下*服務*。image:services.jpg[""]
+. 按一下*正式作業執行個體*或*沙箱執行個體*。image:production_instances.gif[""]
+image:sandbox_instances.gif[""]
+. 選取您要立即備份的正確執行個體。
++
+.. 如果您要備份的執行個體目前受到備份原則的保護、請按一下上面*受保護的執行個體*的數字。
+.. 如果您要備份的執行個體備份狀態為擱置中、請按一下*擱置執行個體*上方的數字。
+.. 如果您要備份的執行個體目前未受備份原則保護、請按一下上面*未受保護的執行個體*的數字。
+
+
+. 按一下組織名稱。image:organization.jpg[""]
+. 按一下*立即備份*。此時會出現一則訊息、指出所選組織正在備份佇列中。
+. 按一下*提交*。
+

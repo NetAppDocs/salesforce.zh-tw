@@ -1,0 +1,30 @@
+---
+sidebar: sidebar 
+permalink: task_canceling_job.html 
+keywords: netapp, saas backup, salesforce, canceling, jobs, backup, restore 
+summary: 您可以取消立即的備份或還原。您無法取消排程的備份。 
+---
+= 取消工作
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+您可以取消立即的備份或還原。您無法取消排程的備份。
+
+
+toc::[]
+.步驟
+. 按一下左側導覽窗格上的*工作*。
+. 在*最近執行的工作*下、找到您要取消的工作。
+. 按一下*取消*。
+

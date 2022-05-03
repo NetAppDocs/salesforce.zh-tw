@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: index.html 
+summary: 歡迎使用NetApp SaaS Backup for Salesforce的文件入口網站。 
+---
+= NetApp SaaS Backup for Salesforce文件
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:keywords: netapp, saas backup, salesforce,  documentation, help, sign up
+
+
+NetApp SaaS Backup是一項安全的雲端原生服務、可將您的Salesforce資料備份至Amazon S3儲存設備。SaaS備份有助於保護資料免受威脅或意外刪除。
+
+
+
+== 管理備份與還原資料
+
+* link:task_performing_immediate_backup.html["執行立即備份"]
+* link:task_managing_restores.html["還原資料"]
+
+
+
+
+== 提供意見反應、取得協助或尋找更多資訊
+
+* link:task_providing_feedback.html["提供意見回饋"]
+* link:concept_get_help_find_info.html["何處可取得協助及尋找更多資訊"]
+* link:https://docs.netapp.com/us-en/saasbackupO365/["適用於Microsoft Office 365的SaaS備份文件"]
+

@@ -1,0 +1,57 @@
+---
+sidebar: sidebar 
+permalink: task_comparing_restoring.html 
+keywords: netapp, saas backup, salesforce, managing, restores, comparing, restoring, recent, previous, backup, compare, comparison 
+summary: 您可以使用SaaS Backup for Salesforce來比較及還原先前備份的資料。 
+---
+= 比較及還原備份差異
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+您可以使用SaaS Backup for Salesforce來比較及還原備份差異。
+
+.步驟
+. 在左窗格導覽中、按一下「*工作*」。image:jobs.jpg["「工作」按鈕"]
+. 在*最近完成的工作*下、選取含有您要比較其備份之物件的備份。
+. 按一下組織。
+. 選取您要比較備份的物件。
+. 按一下比較圖示。image:compare_icon.jpg["反白顯示比較圖示的螢幕快照"]
+. 在*先前備份*旁、選取您要用於比較的備份的第一個日期。
+. 在*目前備份*旁、選取您要用於比較的第二個備份日期。
+. 按一下*比較*。image:compare.jpg["比較按鈕"]
++
+
+NOTE: 如果兩個選取的備份之間沒有差異、則不會建立比較工作。
+
+. 按一下*檢視工作進度*。
++
+工作完成後、會顯示在*最近完成的工作*下。
+
+. 按一下「成功的組織數目」或「成功的組織數目」。image:completed_compare_job_click_arrow.gif["已完成比較工作、按一下何處可取得結果"]
++
+此時會出現一個視窗、顯示工作狀態。image:compare_job_results_window_arrow.gif["比較工作結果視窗"]
+
+. 按一下物件名稱以查看結果。比較工作摘要會顯示、以及在兩個選取的備份之間、物件中建立、更新和刪除的記錄數。您可以選擇下載比較工作詳細資料。
++
+.. 若要下載比較工作詳細資料、請按一下 image:download_compare_results.gif["下載比較結果圖示"]。
+.. 解壓縮檔案以查看結果。
+
+
+. 按一下*還原*。
+. 選取*更新*以還原所有更新的記錄。選取*刪除*以還原所有刪除的記錄。如果有可用的選項、您也可以同時選取這兩個選項。
+. 按一下*相撲*。
++
+恢復工作時不會覆寫、也不會建立關係。
+
+

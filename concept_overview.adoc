@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: concept_overview.html 
+keywords: overview, concepts, features, use case 
+summary: NetApp SaaS Backup for Salesforce是一項安全的雲端原生服務、可將您的Salesforce資料備份至Amazon S3儲存設備。SaaS備份有助於保護資料免受威脅或意外刪除。 
+---
+= NetApp SaaS Backup for Salesforce概述
+:toc: macro
+:hardbreaks:
+:allow-uri-read: 
+:toc: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+NetApp SaaS Backup for Salesforce是一項安全的雲端原生服務、可將您的Salesforce資料備份至Amazon S3儲存設備。SaaS備份有助於保護資料免受威脅或意外刪除。
+
+image:Overview.gif["SaaS Backup for Salesforce的圖形概述。"]附註：當您從SaaS Backup for Salesforce的私有預覽升級至一般產品可用度時、您的私有預覽資料將不會保留。
+
+如果您對SaaS Backup for Microsoft Office 365感興趣、可以找到相關文件 link:https://docs.netapp.com/us-en/saasbackupO365/["請按這裡"]。

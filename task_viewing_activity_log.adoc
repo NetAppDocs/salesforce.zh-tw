@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: task_viewing_activity_log.html 
+keywords: netapp, saas backup, salesforce, viewing, activity, log 
+summary: 您可以檢視在SaaS Backup for Salesforce內部執行的所有活動清單。 
+---
+= 檢視活動記錄
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+您可以檢視在SaaS Backup for Salesforce內部執行的所有活動清單。
+
+.步驟
+. 在左窗格導覽中、按一下*報告*。image:reporting.jpg[""]
+. 按一下*活動記錄*。
+. 若要篩選結果、請按一下*篩選*。image:filter.jpg[""]
+. 選取您要用來精簡報告結果的篩選條件。您可以依服務或事件篩選。image:activity_log_filter.jpg[""]
+. 按一下「*搜尋*」方塊、然後選取您要查看結果的特定服務或事件。視需要新增其他篩選器。
+. 按一下「*套用篩選條件*」。
+

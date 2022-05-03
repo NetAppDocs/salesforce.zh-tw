@@ -1,0 +1,38 @@
+---
+sidebar: sidebar 
+permalink: task_reauthenticating.html 
+keywords: netapp, saas backup, reauthenticating, reauthentication, tokens, refresh, expired, access 
+summary: 您可以取消立即的備份或還原。您無法取消排程的備份。 
+---
+= 重新驗證
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+Salesforce允許您使用最多5個權杖、然後才能重新驗證您的認證資料。如果您嘗試啟動備份或還原、但已使用所有權杖、您會收到下列錯誤訊息：「Expired access/refreshtoken（過期的存取/重新整理權杖）」。如果收到此訊息、您必須重新驗證才能繼續。
+
+
+toc::[]
+.步驟
+. 在儀表板左上角、按一下 image:configure_icon.jpg["設定圖示"]。
+. 在*服務設定*下、選取* Salesforce *。
+. 按一下*授與存取權限*。
++
+image:grant_access_permissions.jpg["授予存取權限圖示"]
+
+. 按一下「*正式作業*」或「*沙箱*」索引標籤、選取您需要重新驗證的執行個體。
+. 按一下 image:re_authenticate.jpg["重新驗證圖示"]。
++
+您將被重新導向至* Salesforce *以輸入您的認證資料。重新驗證之後、您可以啟動備份或還原工作。
+
+

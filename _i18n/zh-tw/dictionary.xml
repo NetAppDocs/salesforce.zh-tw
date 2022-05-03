@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="2ac6bc59b5b989538923d84e1ea514db" category="summary">您可以使用SaaS Backup for Salesforce來備份資料。</block>
+  <block id="907ae2ca5325729883590ff7c02d41c5" category="doc">執行立即備份</block>
+  <block id="ec282453c4e7aeb8e9175645fd052dde" category="paragraph">您可以隨時視需要執行正式作業或沙箱執行個體的立即備份、以保護資料。</block>
+  <block id="0ac04b08cb1d1c1bbcd624736d7a4a94" category="admonition">對於試用版的SaaS Backup for Salesforce、您每天只能執行三次立即備份。</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">步驟</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-image-macro"></block>
+  <block id="c6aff3753ce09bcfb3d2b41b0a79b0e3" category="list-text">在左窗格導覽中、按一下*服務*。<block ref="5ba64ff8e229cabdd4607f87216788c3" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f22d8c940dd594c29cdb0e25b5f0ff4b" category="list-text">按一下*正式作業執行個體*或*沙箱執行個體*。<block ref="ce00dffed0446e4163769bd4d24d0914" category="inline-image-macro-rx" type="image"></block>
+<block ref="6327247e9a4189d75bc19c6623ed5709" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="baf2a6acc7bf93d57a5241e55f47b451" category="list-text">選取您要立即備份的正確執行個體。</block>
+  <block id="3af0e2bdb62097f5bc1ca53f6a609c89" category="list-text">如果您要備份的執行個體目前受到備份原則的保護、請按一下上面*受保護的執行個體*的數字。</block>
+  <block id="178b85ce455f76e1369759a5627661c1" category="list-text">如果您要備份的執行個體備份狀態為擱置中、請按一下*擱置執行個體*上方的數字。</block>
+  <block id="6e7c3936f9100e1566aebc841eb34e1a" category="list-text">如果您要備份的執行個體目前未受備份原則保護、請按一下上面*未受保護的執行個體*的數字。</block>
+  <block id="6e6a294919979dec0dad4dccdf93997f" category="list-text">按一下組織名稱。<block ref="1817e809bf9d7df296a1d69c4e0dda36" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="b163a01243d4a9aa0d46c2d5b37c4ba1" category="list-text">按一下*立即備份*。此時會出現一則訊息、指出所選組織正在備份佇列中。</block>
+  <block id="4b5d2dd70af718ebe67bfea5b43d8667" category="list-text">按一下*提交*。</block>
+  <block id="1b40ff58039e24d9c191a06c581a74f2" category="summary">歡迎使用NetApp SaaS Backup for Salesforce的文件入口網站。</block>
+  <block id="62a1bf19d63cf8abd2a45f03805b1a3a" category="doc">NetApp SaaS Backup for Salesforce文件</block>
+  <block id="2b10feb741fcf4da10b719c0abfc97b5" category="paragraph">NetApp SaaS Backup是一項安全的雲端原生服務、可將您的Salesforce資料備份至Amazon S3儲存設備。SaaS備份有助於保護資料免受威脅或意外刪除。</block>
+  <block id="627c67f84ecdab26e8531fb4f26a3d7f" category="section-title">管理備份與還原資料</block>
+  <block id="6fb2b97744d045afd98376f018b9f01d" category="list-text"><block ref="6fb2b97744d045afd98376f018b9f01d" category="inline-link-macro-rx"></block></block>
+  <block id="75df29488cee441970e635e10895ab96" category="inline-link-macro">還原資料</block>
+  <block id="8344e5256205a6eb6d53c776a87325a9" category="list-text"><block ref="8344e5256205a6eb6d53c776a87325a9" category="inline-link-macro-rx"></block></block>
+  <block id="c96ecffde6280d2fa1507c88f273acb6" category="section-title">提供意見反應、取得協助或尋找更多資訊</block>
+  <block id="03dd17d9bfb6ac47a56a2c201bab1690" category="inline-link-macro">提供意見回饋</block>
+  <block id="5d103525a3377b97bd04e4e6de027e21" category="list-text"><block ref="5d103525a3377b97bd04e4e6de027e21" category="inline-link-macro-rx"></block></block>
+  <block id="3cd12697cda279c9c99b093a265c1ba8" category="inline-link-macro">何處可取得協助及尋找更多資訊</block>
+  <block id="60eb37087de824a31913cb25c89ee64d" category="list-text"><block ref="60eb37087de824a31913cb25c89ee64d" category="inline-link-macro-rx"></block></block>
+  <block id="f177479df190b09a1f0a4177a434f5e2" category="inline-link-macro">適用於Microsoft Office 365的SaaS備份文件</block>
+  <block id="2f885ebeca5bae9f7eaf0f5e91d94b45" category="list-text"><block ref="2f885ebeca5bae9f7eaf0f5e91d94b45" category="inline-link-macro-rx"></block></block>
+  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="summary">法律聲明提供版權聲明、商標、專利等存取權限。</block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">法律聲明</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">版權</block>
+  <block id="09e95b77ffe81fe465a83ba99efad5c8" category="paragraph"><block ref="09e95b77ffe81fe465a83ba99efad5c8" category="inline-link-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">商標</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NetApp 、 NetApp 標誌及 NetApp 商標頁面上列出的標章均為 NetApp 、 Inc. 的商標。其他公司與產品名稱可能為其各自所有者的商標。</block>
+  <block id="7aa531e9acfe2b98e34d2c92fe9846ff" category="paragraph"><block ref="7aa531e9acfe2b98e34d2c92fe9846ff" category="inline-link-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">專利</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">如需最新的 NetApp 擁有專利清單、請參閱：</block>
+  <block id="d7f1fbcf9ce4e42f705add574d262b2c" category="paragraph"><block ref="d7f1fbcf9ce4e42f705add574d262b2c" category="inline-link-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">隱私權政策</block>
+  <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
+  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">開放原始碼</block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">通知檔案提供有關 NetApp 軟體所使用之協力廠商版權與授權的資訊。</block>
+  <block id="af482b62e5f593026c0e1f3b25e33b22" category="inline-link-macro">SaaS備份注意事項</block>
+  <block id="6adebe2fbffbd6dcb646696cd1bfc9ee" category="paragraph"><block ref="6adebe2fbffbd6dcb646696cd1bfc9ee" category="inline-link-macro-rx"></block></block>
+  <block id="da19b7c2e291b2b5c0f2a8511e2d737a" category="summary">提供意見回饋、協助我們為您提供更好的服務。</block>
+  <block id="aa78677ae2b133ceae8bb92497a8c07f" category="paragraph">您對NetApp SaaS Backup for Salesforce產品的意見反應、有助於我們為您提供更好的服務。您可以從內部SaaS備份提供意見反應。</block>
+  <block id="b94bf479616c645e1d92893ad9ee316d" category="list-text">按一下 <block ref="745b42c40461b85675b54d346e429160" category="inline-image-macro-rx" type="image"></block> 在左窗格導覽中。</block>
+  <block id="1c841320f46ae6c1639dc5e080e3fbf3" category="list-text">選擇*意見反應*。</block>
+  <block id="63b9a8e49a30f185f4f2d726a08afb6d" category="list-text">完成簡短的意見回饋調查。</block>
+  <block id="6be364524b60c8ce2362d8a248ae8458" category="paragraph">如果您想要在正式作業層級文件發行或現有正式作業層級文件有重大變更時自動收到通知、請追蹤Twitter帳戶@NetAppDoc。</block>
+  <block id="b635c1cbbe90272a791773937e55c29c" category="summary">您應該瞭解某些SaaS備份已知的問題和限制。</block>
+  <block id="2813f127dc58929fb553bc32684c2e46" category="doc">已知問題與限制</block>
+  <block id="1cdecf8cfc1c680f3e5e3642e1b1fd43" category="paragraph">以下是適用於Salesforce已知問題與限制的SaaS備份清單。</block>
+  <block id="bcbe7b698dad6ff6a72028e11afa90aa" category="section-title">某些物件的備份記錄遺失（瑕疵#1169）</block>
+  <block id="34e7cb432db22480f65a063929e225e2" category="paragraph">在組織完成完整備份或遞增備份之後、發現記錄總數與下載記錄總數的計數可能有小差異。當特定欄位新增至查詢、導致Salesforce API無法傳回所有記錄時、就會發生這種情況。</block>
+  <block id="2653e3e49fa97388779832c8af053cec" category="section-title">不支援還原架構變更之前備份的記錄（瑕疵#1170）</block>
+  <block id="a15bfe79557278c017909f47b59e0d64" category="paragraph">SaaS備份不支援還原架構變更之前備份的記錄。如果嘗試執行此操作、還原將會失敗、並顯示下列訊息：*由於架構變更而導致還原失敗*。</block>
+  <block id="a6f5535ec20d130daac0bd5ec509db7c" category="section-title">從備份中排除的物件</block>
+  <block id="8c64a71891153a9044c41898cc9cb9cd" category="paragraph">SaaS備份for Salesforce不會備份下列物件：</block>
+  <block id="0654fbcec674157df483b1293a9bceea" category="list-text">無法使用Salesforce API查詢的物件</block>
+  <block id="63f27138bf19636252411401243db2fd" category="list-text">不支援一般查詢的物件</block>
+  <block id="65f07e44478dfa04f0e3d9ab9a398cee" category="list-text">Salesforce用來追蹤物件中記錄欄位層級變更歷程記錄的歷程記錄物件。</block>
+  <block id="4ba5aba2f15e022368bed007b15bb804" category="section-title">私有預覽不支援的功能</block>
+  <block id="85af39b96311c97edcf9348cd1cbdf7f" category="paragraph">下列功能不支援使用於私有預覽版本的SaaS Backup for Salesforce。</block>
+  <block id="0d5d92a314cfe815158ebde328728841" category="list-text">Salesforce聊天者</block>
+  <block id="a5550f858c0ad50e9beb0ecc5a553a9b" category="list-text">下列關係類型</block>
+  <block id="b2225ba3ad6563c0a702e4d5fe2d3128" category="list-text">N：1至N：N關係</block>
+  <block id="251cabae8c7cde1462b09cba3bfed1a8" category="list-text">自我關係</block>
+  <block id="2113d8dd22a7718f7f7ed338d5148268" category="list-text">循環關係</block>
+  <block id="f77373d8dbe5ffc4ac811634d33a4576" category="summary">您可以檢視SaaS Backup for Salesforce中已完成、已取消或失敗的所有工作清單。</block>
+  <block id="36a369f196cf70137545e71a87a40978" category="doc">檢視工作歷程記錄</block>
+  <block id="eb5443b44bfe58eaf78c1d584a6a537d" category="list-text">在左窗格導覽中、按一下*報告*。<block ref="6b1016787a1b640ac9aa842cfb3b4655" category="inline-image-macro-rx" type="image"></block>隨即顯示工作歷程記錄。</block>
+  <block id="c91d53cb367baea6f91c3c6f9ba12b49" category="list-text">按一下右上角的*篩選*。<block ref="211b6fa5ec0b2e438f477c61db04599c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="85f8ceb73a1807587f30f99baa144ee8" category="list-text">選取您要用來精簡報告結果的篩選條件。您可以依備份原則、服務或工作類型進行篩選。</block>
+  <block id="db66ae1903eff3f8128a43125b9609a9" category="list-text">按一下「*搜尋*」方塊、然後選取您要查看結果的特定備份原則、服務或工作類型。視需要新增其他篩選器。<block ref="dfc523264beb960509594f07107a5f20" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="5bc78b1267d6eec17e7aaa5b202fecff" category="list-text">按一下「*套用篩選條件*」。</block>
+  <block id="5ed5c66aa1c9d72063f7a2f9f75a17d9" category="summary">在沙箱或正式作業執行個體中的資料受到保護之後、您可以隨時選擇將其移至不同的備份層。</block>
+  <block id="9d26c855a2d401584a2885908a0440b0" category="doc">排程備份或變更備份頻率</block>
+  <block id="bf7f5a76355a51d213b8e2aefe6448df" category="paragraph">如果您在SaaS Backup for Salesforce中新增沙箱執行個體、依預設、沙箱中的所有資料都不會受到保護、直到您手動將其移至受保護的備份層為止。在沙箱或正式作業執行個體中的資料受到保護之後、您可以隨時選擇將其移至不同的備份層。</block>
+  <block id="9989c95c3053ade316ac50c74e9bf818" category="list-text">在左窗格導覽中、按一下*服務*。</block>
+  <block id="5ba64ff8e229cabdd4607f87216788c3" category="paragraph"><block ref="5ba64ff8e229cabdd4607f87216788c3" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="44917becc84255e65ad6fe93d451cc1b" category="list-text">如果您要在正式作業執行個體中移動組織、請按一下*正式作業執行個體*。</block>
+  <block id="a6f77429d7ea5df57df973d7d95bc5d0" category="paragraph"><block ref="ce00dffed0446e4163769bd4d24d0914" category="inline-image-macro-rx" type="image"></block>如果您要在沙箱執行個體中移動組織、請按一下*沙箱執行個體*。</block>
+  <block id="6327247e9a4189d75bc19c6623ed5709" category="paragraph"><block ref="6327247e9a4189d75bc19c6623ed5709" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2dd3092c0021650efb24806c99dcda40" category="list-text">針對您要移動的組織、選取正確的執行個體類別。</block>
+  <block id="7670cfa6d9bbf678073477b4fcc99ece" category="list-text">如果您要移動的組織目前受到備份原則的保護、請按一下上面*受保護的執行個體*的數字。</block>
+  <block id="7ea477de966f01b087d683477ebe57f1" category="list-text">如果您要移動的組織的備份狀態為擱置中、請按一下*擱置執行個體*上方的數字。</block>
+  <block id="49ba784e1afa2eaa7b52ddf742fd613c" category="list-text">如果您要移動的組織目前未受備份原則保護、請按一下上面*未受保護的執行個體*的數字。</block>
+  <block id="b01a359c58f18a208adc0ca76cb7882d" category="list-text">選取新的階層。只有第2層和第3層備份可供沙箱執行個體使用。沙箱執行個體無法在層級1原則下備份。正式作業執行個體可以位於層級1原則中、也可以不受保護。正式作業執行個體無法在層級2或層級3原則下備份。將組織移至新的備份層。</block>
+  <block id="21e1b756767837b952a974f265499c2c" category="summary">NetApp SaaS Backup for Salesforce是一項安全的雲端原生服務、可將您的Salesforce資料備份至Amazon S3儲存設備。SaaS備份有助於保護資料免受威脅或意外刪除。</block>
+  <block id="7d83bbd7603ed5e1579ee52382edf594" category="doc">NetApp SaaS Backup for Salesforce概述</block>
+  <block id="1da10ef1876c10e5daed7941b10ea0e2" category="inline-image-macro">SaaS Backup for Salesforce的圖形概述。</block>
+  <block id="b3989b22fa2007371aa8bc591d256386" category="paragraph"><block ref="c989eb06241e0885e541490ebf7d53ef" category="inline-image-macro-rx" type="image"></block>附註：當您從SaaS Backup for Salesforce的私有預覽升級至一般產品可用度時、您的私有預覽資料將不會保留。</block>
+  <block id="6c92285fa6d3e827b198d120ea3ac674" category="inline-link-macro">請按這裡</block>
+  <block id="68bc97430a8a7d4dd4a26bb743ac17d3" category="paragraph">如果您對SaaS Backup for Microsoft Office 365感興趣、可以找到相關文件 <block ref="0271f2d022fdc7f7aeab59d4e396f81d" category="inline-link-macro-rx"></block>。</block>
+  <block id="0cab6849e5d7af24b1ddfe269c63c898" category="summary">您可以檢視在SaaS Backup for Salesforce內部執行的所有活動清單。</block>
+  <block id="4637fa9876f47993b8689ad910800aa5" category="doc">檢視活動記錄</block>
+  <block id="5d5bf6c891d643f8d91b1416c4836a4f" category="list-text">在左窗格導覽中、按一下*報告*。<block ref="6b1016787a1b640ac9aa842cfb3b4655" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="704629eb1f04f95f71dae30fee63dd7d" category="list-text">按一下*活動記錄*。</block>
+  <block id="042a66ec052ba0fe36624b3150dca983" category="list-text">若要篩選結果、請按一下*篩選*。<block ref="211b6fa5ec0b2e438f477c61db04599c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a6fbc4d6a3101b98aea503a9a297c7fd" category="list-text">選取您要用來精簡報告結果的篩選條件。您可以依服務或事件篩選。<block ref="6c5989be31be629d7812e5ee160eae95" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d3d9515781b0efbc8727dcb8059e9548" category="list-text">按一下「*搜尋*」方塊、然後選取您要查看結果的特定服務或事件。視需要新增其他篩選器。</block>
+  <block id="3c94b1350efc6463906e845a2ff7d491" category="summary">您可以清除Salesforce組織的資料。</block>
+  <block id="f63e44f6b7c0301b6b1aee23f1f33f4c" category="doc">正在清除資料和中繼資料</block>
+  <block id="ba148551a0c83efdb34b7d72ad2e3c41" category="paragraph">您可以清除Salesforce組織的資料。在*帳戶設定*中管理組織層級的資料清除作業。</block>
+  <block id="8ae4b4d870a75f00712197eb3ccd3115" category="paragraph">SaaS Backup for Salesforce會自動管理中繼資料保留與清除。中繼資料會保留90天。90天後、中繼資料會被清除。</block>
+  <block id="84a81e8817ee1211f1116f3e258a2573" category="section-title">清除資料</block>
+  <block id="883019e162e0c4e0b900f1f94f06fefe" category="paragraph">您隨時都可以選擇清除特定組織的資料、例如未使用的Salesforce組織。</block>
+  <block id="7021f5ee4da5c50a415a3247a8359eff" category="paragraph">您可以清除資料以重新整理正式作業或沙箱執行個體。</block>
+  <block id="7d43d9444adcbf8ad8288805f4b4bad4" category="paragraph">您也可能想要新增另一個正式作業或沙箱執行個體。若要這麼做、您必須清除正式作業或沙箱執行個體。</block>
+  <block id="92eef66d548ce3ad6566a41eb934f2c6" category="inline-image-macro">齒輪圖示</block>
+  <block id="93aae2968df995f78e23eefab4b48ff2" category="inline-image-macro">帳戶設定</block>
+  <block id="b92b1f2cfc798435ec4ef5c6c87baf7c" category="list-text">按一下 <block ref="89149122f375b234b8eecb4e23756acb" category="inline-image-macro-rx" type="image"></block> 然後按一下 <block ref="58b1e22a3220385100ba59b71134b799" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="e07e5b3f855bd71b1e85f83acb5838d3" category="list-text">按一下*保留並清除*。</block>
+  <block id="b6c1f1556ca81bcb192508a855aed6ed" category="list-text">在*保留和清除*下、向下捲動至*清除資料*。</block>
+  <block id="75499a48a29cb620fe0f3e0c58884269" category="list-text">選擇*供應商類型*和*服務名稱*。</block>
+  <block id="a90988501f4f1fc09cca43a59ead1d95" category="list-text">搜尋或選取組織ID。</block>
+  <block id="3a7a2a0aea8e508b7ff5461b8e07d419" category="list-text">按一下「 * 儲存 * 」。系統會彈出一則訊息、供您確認或取消清除。</block>
+  <block id="7f23b56fd4dedf5d74e995b97b9a5426" category="list-text">按一下「*是*」確認清除。如果您按一下*是*、則可將清除的資料恢復最多七天。</block>
+  <block id="ad0bf7aa96dd40f32d3b2dca69c49df6" category="list-text">按一下「*顯示清除清單*」以查看排程清除的清單。</block>
+  <block id="f4a7061cca9ee27e82185f896b9e3729" category="inline-image-macro">清除清單範例</block>
+  <block id="f507635adae33a1f2928daca90683e32" category="paragraph"><block ref="f507635adae33a1f2928daca90683e32" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="92f856161fa8f81bc4e945d0b7170384" category="summary">您可以使用匯出至資料功能來下載附件、結果和統計資料。</block>
+  <block id="c41fcd1478e92a3f4218e36f395b11ef" category="doc">正在下載匯出資料</block>
+  <block id="f38ac5c423a8fd7fabd1c5456f02ad53" category="paragraph">您可以在物件和組織層級匯出資料。您可以針對每個匯出、從先前的備份下載附件、結果和統計資料。</block>
+  <block id="2a01ae3814b88563f913199a6008c2ca" category="section-title">物件層級匯出</block>
+  <block id="5f041d8db3b153086beeb72300f6b9c2" category="inline-image-macro">影像顯示正式作業執行個體方塊</block>
+  <block id="a7d1e7db6a3bd1ab0530ba311e8d7a45" category="inline-image-macro">影像顯示沙箱執行個體方塊</block>
+  <block id="c0d1e974351fe0bc90e5439113bdc226" category="list-text">按一下*正式作業執行個體*或*沙箱執行個體*。<block ref="3efb934d065119d0d977a01235119f21" category="inline-image-macro-rx" type="image"></block>
+<block ref="74113e3b84abd7b45a9a9b49b1f69ba7" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f2c3c2c4f02328be900017e4b7cba694" category="inline-image-macro">圖顯示受保護的執行個體</block>
+  <block id="66afa706f8158838b122c5e58c08386e" category="list-text">按一下*受保護的執行個體*數目。<block ref="74c1c9078b16f1abb5273b10c2824d6f" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="276a073a3303ba2141cf18b4edf8cc06" category="inline-image-macro">影像顯示按一下組織名稱的位置</block>
+  <block id="3d59469471281217c5f91b944abae1c3" category="list-text">按一下組織名稱。<block ref="2a793825c204c0c8c788f5b667261f38" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="30178cec99dfc0c06f8a0a2650f2fc2e" category="inline-image-macro">圖顯示還原按鈕</block>
+  <block id="3a76b3539caa4a3ae469882db407524a" category="list-text">選取您要匯出的物件、然後按一下*還原*。<block ref="ed099f1d0e68ac4814c1f0e91c394c36" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="7796069b65b42b7b465aa5d107c3c1b5" category="list-text">如有需要、請選取*還原關係*或*還原檔案/附件*、將其納入匯出。</block>
+  <block id="40b27afc2ccdbe82882d3c01870ca75f" category="admonition">如果您選取*還原關係*、則工作會匯出選取的物件及其所有關係物件。如果您未選取*還原關係*、則工作只會匯出選取的物件。</block>
+  <block id="f705cfc7a65a6b52e15591b6d50ce367" category="list-text">按一下左窗格導覽中的*工作*、即可檢視還原工作。</block>
+  <block id="eb5329f3cdd0b8f67ddd06b3ab96c829" category="list-text">按一下*物件總數*或*成功*、即可查看工作詳細資料及下載選項。</block>
+  <block id="15c44f1d27191a0964800be2dd9caf67" category="list-text">對於使用*還原檔案/附件*的匯出工作、您有三種下載選項：</block>
+  <block id="334b05e28f9e3c95d3013539383ab79a" category="inline-image-macro">圖顯示匯出資料下載連結按鈕</block>
+  <block id="164009c19e49dc2bd3564c2465dec21b" category="list-text">如需結果、請按一下 <block ref="ee1b0ffdb9fe671b55d7e2d2900991da" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="0b554cf7d0cd029fe76b24ea6c603b55" category="list-text">在您的搜尋工具中、找到下載的.tar.gz檔案。</block>
+  <block id="79dd9c251978b20ce2fb30eae760a500" category="list-text">解壓縮檔案以取得.tar檔案。</block>
+  <block id="b7f24e7b78e56db9c5f2ce0d2993bec2" category="list-text">擷取.tar檔案以查看Excel結果。</block>
+  <block id="6fed68d63f4d557826ce2aed5b9e08a2" category="inline-image-macro">圖顯示附件下載連結</block>
+  <block id="6588745f7e70dacfa4aa4bd33aa0999c" category="list-text">如需附件、請按一下 <block ref="f0d0ca820fef4086d5e83a4fc076ee6a" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="0decf83c12f33f94b9e21a9396029942" category="list-text">擷取.tar檔案以查看附件。</block>
+  <block id="ee1ca5819ccaf145f82ef29f2993c8f7" category="inline-image-macro">圖顯示下載連結</block>
+  <block id="92e5479dbacf366fa8a81f85adb7aabb" category="list-text">如需統計報告、請按一下 <block ref="e1176c9d3fdda36b778bcc02d33b070f" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="75ee5e5f484aca20bedccf27f4d1f5ab" category="list-text">對於不需要*還原檔案/附件*的匯出工作、您有兩個下載選項：</block>
+  <block id="1d7782c515324c7a2802c0ddffde4b64" category="inline-image-macro">圖顯示匯出資料下載連結</block>
+  <block id="cec9512f8c8e46dd085810bb30259d75" category="list-text">如需結果、請按一下 <block ref="6661fba7ca5be28c7b6ffd52e6404fdb" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="dc2b75fc39db1e636a25312eb666dfc0" category="section-title">組織層級匯出</block>
+  <block id="0def803db7f32b91b0966d8e8dc50ff3" category="inline-image-macro">圖顯示階層下拉式清單</block>
+  <block id="1d1777ba8766e292135a06ed2449955d" category="list-text">選取*層級*。<block ref="32e248ec398293680426752180c37ea4" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="59e5341ebbc4de63119156e493008872" category="inline-image-macro">影像顯示含有匯出選項的還原下拉式清單</block>
+  <block id="7f9e82bcb91ebbf91153c9417f18c8d4" category="list-text">按一下「*還原*」、然後按「*匯出資料*」選項。<block ref="a3e073f6dd75aa1ec102f8aa055522b0" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="43a5e9f782e7425a5de082621292c31a" category="list-text">如有需要、請按一下*還原檔案/附件*、將其納入匯出。</block>
+  <block id="a5f832ff0ee5864da54220ac9154e3f6" category="list-text">按一下*「Total」（組織總數）*或*「Successful」（成功）*、即可查看工作詳細資料及下載選項。</block>
+  <block id="d703cfe8f00733a4a1e84640b833af26" category="summary">您可以啟用或停用Salesforce的中繼資料備份。</block>
+  <block id="35fd26aa5bb4717a9cedd4f8e6485946" category="doc">啟用及停用中繼資料備份</block>
+  <block id="1cf52111c6baba45076ba1fc4312422d" category="section-title">啟用中繼資料備份</block>
+  <block id="c47230d121fb1df4832e6b65fd99a784" category="paragraph">啟用中繼資料備份可為租戶帳戶內的所有組織提供中繼資料備份。</block>
+  <block id="e93e28976828b8a55b7160afd23d7bc8" category="list-text">按一下 <block ref="89149122f375b234b8eecb4e23756acb" category="inline-image-macro-rx" type="image"></block> 並在*服務設定*下選取* Salesforce *。</block>
+  <block id="3249ebaceb7ef786e61cefc913291d16" category="inline-image-macro">Salesforce設定</block>
+  <block id="d9ecdf140b442d60d0563653e34969cb" category="paragraph"><block ref="d9ecdf140b442d60d0563653e34969cb" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="78d72fce1a13c80af469d3e8900feff5" category="list-text">按一下*啟用中繼資料備份*以開啟此功能。在租戶層級啟用之後、將會備份所有組織的中繼資料。</block>
+  <block id="dc0da323f67e851ecfa2c3478bb5b18f" category="section-title">停用中繼資料備份</block>
+  <block id="5555eb9c4e6aefb5c8b787f5a9fa1d6f" category="paragraph">您可以在組織層級停用中繼資料備份。啟用所有組織的中繼資料備份之後、即可控制哪些組織不會進行中繼資料備份。</block>
+  <block id="2eec5d43f26cf86ac573e1c057227e1b" category="list-text">若要停用中繼資料備份、請前往*服務*。</block>
+  <block id="a0109cde0d3bb01c517c86cc40872c22" category="list-text">選擇*正式作業執行個體*或*沙箱執行個體*。</block>
+  <block id="da396169287a2765cffcc450d7b061c2" category="list-text">選取*受保護*執行個體的數目。</block>
+  <block id="5ce2c87c0e941acdc3c6cc1198f886b2" category="list-text">選取您要停用中繼資料備份的組織。</block>
+  <block id="789a5df7406fcd45b3b8c623e69ee6b6" category="list-text">按一下*中繼資料備份*以關閉此功能。</block>
+  <block id="8654b0089318be3208f78ed1708315ab" category="inline-image-macro">停用中繼資料備份</block>
+  <block id="ce4e3b64b2712f7097688a51e5696aa1" category="paragraph"><block ref="ce4e3b64b2712f7097688a51e5696aa1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0cebcf4339f902fdf1525ec660af0ae0" category="summary">您可以取消立即的備份或還原。您無法取消排程的備份。</block>
+  <block id="0371b86706bebc66ab7d2867f25222f4" category="doc">重新驗證</block>
+  <block id="38b3b15aa40d87ba9a9deeee25cd9978" category="paragraph">Salesforce允許您使用最多5個權杖、然後才能重新驗證您的認證資料。如果您嘗試啟動備份或還原、但已使用所有權杖、您會收到下列錯誤訊息：「Expired access/refreshtoken（過期的存取/重新整理權杖）」。如果收到此訊息、您必須重新驗證才能繼續。</block>
+  <block id="728f9cb24ecfd35a7e315f00f6a55628" category="inline-image-macro">設定圖示</block>
+  <block id="8d499e5c1f59d0ec55de50137566c0b0" category="list-text">在儀表板左上角、按一下 <block ref="0f7cd87e94c220fddeb0cfa6fca9f3a2" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="173eb3c4fa5f55eb6a003a37ddb9a241" category="list-text">在*服務設定*下、選取* Salesforce *。</block>
+  <block id="018fe6950e6c2fd26254cfa46079f320" category="list-text">按一下*授與存取權限*。</block>
+  <block id="20d6b70306e95bc0f067085e43915383" category="inline-image-macro">授予存取權限圖示</block>
+  <block id="e437a0bb03b60349b5e0dedc640c9533" category="paragraph"><block ref="e437a0bb03b60349b5e0dedc640c9533" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9dfee0005dab9bba9f36b8863a25d572" category="list-text">按一下「*正式作業*」或「*沙箱*」索引標籤、選取您需要重新驗證的執行個體。</block>
+  <block id="52195dc201f53841700962d052dae8de" category="inline-image-macro">重新驗證圖示</block>
+  <block id="b8762728802bb6a142dca1f36cfa72d3" category="list-text">按一下 <block ref="77891bfbce05afd8e1492f25f6c97ff1" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="7a519e43e124133e436f67b709916720" category="paragraph">您將被重新導向至* Salesforce *以輸入您的認證資料。重新驗證之後、您可以啟動備份或還原工作。</block>
+  <block id="212304543059a60a8a3e21f0af1f0b73" category="summary">您可以在NetApp SaaS Backup for Salesforce社群論壇和知識庫文章中取得協助並尋找更多資訊。</block>
+  <block id="f22c49ab181fc5052dc2afb2f7870c8a" category="paragraph">您可以透過導覽功能表上的* Support*連結、在SaaS備份中存取這些資源。</block>
+  <block id="b24ecb506263a514c17f950224cec618" category="paragraph">您也可以寄送電子郵件至saasbackupsupport@netapp.com與SaaS備份支援團隊聯絡。</block>
+  <block id="9f02509e5496e861df4c341dba05386e" category="doc">備份原則</block>
+  <block id="27c16bc2e8f217eeebbc4d328715771d" category="paragraph">SaaS Backup for Salesforce有三種預先定義的備份原則層級。這些原則層級在備份頻率和資料保留期間各不相同。正式作業執行個體只能受到層級1原則的保護。沙箱執行個體可受到第2層和第3層原則的保護。</block>
+  <block id="fac12c85b62e78f119d552b6f9aa2451" category="paragraph">具有* Active*狀態的備份原則是已指派項目進行備份的原則。狀態為* Inactive*的備份原則並未指派備份項目。</block>
+  <block id="7759a4720271a1ab3b4e6b1c36a67058" category="cell">備份原則</block>
+  <block id="4e92547e997fe98c132fd1cfb873bc65" category="cell">備份頻率</block>
+  <block id="fd597450368b610e3110c7036f852ae9" category="cell">預設資料保留期間</block>
+  <block id="fd72de49d13af6b0bdb18e11fd0383f5" category="cell">提供保護</block>
+  <block id="538a4400e894e9e5dbff6dcd6e9d6e17" category="cell">第1層</block>
+  <block id="82875668baf626071ef9cf3c751ec69c" category="cell">每12小時一次</block>
+  <block id="89ee81dad12fa06ec6a5b8461129cdd0" category="cell">3年</block>
+  <block id="442d53a01a3bee5e6238f5340bd310ed" category="cell">正式作業執行個體</block>
+  <block id="3e335d546de3fa7d51e6942ccc8339b7" category="cell">第2層</block>
+  <block id="585a8bd659fa917cebfb861f91e2e30b" category="cell">每18小時一次</block>
+  <block id="da7e60c600159e2ccabbfea4d6a2c242" category="cell">2年</block>
+  <block id="4a78027bac8863cdd27fa44267c804be" category="cell">沙箱執行個體</block>
+  <block id="83ee9728e65dff5bbbf6297550157b9e" category="cell">第3層</block>
+  <block id="81ab7d159caeeff3fad2829d4a3d72bd" category="cell">每24小時一次</block>
+  <block id="ab254afc26016555fc58a2fbf20c0c73" category="cell">未受保護</block>
+  <block id="32771279cda84268b560695103314e6a" category="cell">未備份</block>
+  <block id="40350e4eafc364700da8aea489f2ef8d" category="cell">正式作業和沙箱執行個體</block>
+  <block id="5dab448b471a72c2df165b5b17e3ac99" category="summary">SaaS Backup for Salesforce會定期推出新版本、為您帶來新功能、增強功能和錯誤修正。</block>
+  <block id="3e248cf36a6ce8d04e21a6fbb7b087f0" category="doc">新功能與更新</block>
+  <block id="a94884a92a91f310b096d503d4c8f13e" category="paragraph">此版本的NetApp SaaS Backup for Salesforce新增下列新功能與更新。</block>
+  <block id="a5667679a016ee66ef9bc45c1a173b3b" category="section-title">2020年12月</block>
+  <block id="cad596f2fae1616364cc19389f6aa0c6" category="list-text">SaaS Backup for Salesforce現在可還原中繼資料。此功能增強功能包括組織層級的還原、以及針對中繼資料進行精細層級的單一或多個項目還原。</block>
+  <block id="f5cef6907f56b30e0f568a1ba8dd8f2e" category="paragraph">組織層級的中繼資料還原</block>
+  <block id="c90fd64abafa6a46f787f3c5d2a82697" category="inline-image-macro">組織層級的中繼資料還原選項已切分</block>
+  <block id="194772dce50f151295c8782ef852d585" category="paragraph"><block ref="194772dce50f151295c8782ef852d585" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0f39f33a5c4e660b4e9d13008388cd18" category="paragraph">精細層級的中繼資料還原</block>
+  <block id="275b049bdb5283a4cbc6b7d319514c59" category="inline-image-macro">匯出及還原中繼資料選項</block>
+  <block id="d8b48bd6bc0099aa6f8730407bf10ba1" category="paragraph"><block ref="d8b48bd6bc0099aa6f8730407bf10ba1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="803cf6672bbd3102ed2d5b6d1938a8f8" category="list-text">「*備份摘要*」是SaaS Backup for Salesforce的一項功能增強功能、可讓您取得所有已建立、更新及刪除的記錄總數。它可讓您檢查備份記錄的數量是否與您的Salesforce帳戶相符。</block>
+  <block id="df9c8c38b260159798318d09259894b9" category="inline-link-macro">檢視備份記錄</block>
+  <block id="671ebd011d9d70bc2e4334e7447fa464" category="paragraph"><block ref="671ebd011d9d70bc2e4334e7447fa464" category="inline-link-macro-rx"></block></block>
+  <block id="d4f4c40bd169a262676284f5da7a191a" category="section-title">2020年10月</block>
+  <block id="f8c36fad2c56842660cbc3a68fb8f9d3" category="list-text">SaaS Backup for Salesforce現在備份中繼資料。此功能增強功能包括備份、物件和組織層級還原、以及清除您所建立的中繼資料。UI也有一個新的索引標籤*中繼資料類型和元件*、您可以在其中查看中繼資料備份。這些頁面提供此新功能的詳細資訊：</block>
+  <block id="c3cce180e4fc0d096e7953732ab79ebf" category="inline-link-macro">啟用和停用中繼資料</block>
+  <block id="8e0e14c17d18e01aa7ed5cbbbb55c3f9" category="paragraph"><block ref="dd83261389a825b7a9968af2880949e6" category="inline-link-macro-rx"></block>
+<block ref="8344e5256205a6eb6d53c776a87325a9" category="inline-link-macro-rx"></block></block>
+  <block id="6aded561490e45bb631ebd13c1f2124e" category="list-text">從2020年10月開始、您可以清除資料。中繼資料會在90天後自動清除。</block>
+  <block id="36e9a5fe1896ae34274e88633c34babe" category="paragraph"><block ref="f6727250bbfa913bef4e80906626d65b" category="inline-link-macro-rx"></block></block>
+  <block id="cf2dfa7ef96d78d1f3ec76316e1481d0" category="section-title">2020年2月</block>
+  <block id="72b5a221286695b12b3b4f506b2d1145" category="paragraph">您現在可以在物件和組織層級匯出資料。您可以針對每個匯出、從先前的備份下載附件、結果和統計資料。<block ref="bd57f30b27e10897ea9932aca05fd4c5" category="inline-link-macro-rx"></block></block>
+  <block id="1c9fd4587b1eec68e886a539b71faf65" category="summary">您可以將活動記錄下載至一個.csf檔案。</block>
+  <block id="38c3c04a063c42a8ca480029d7cad55f" category="doc">下載活動記錄</block>
+  <block id="aad8a4ed987e820a5ab9d67a87197b53" category="list-text">按一下*下載*。<block ref="affa188993e965a76789f349fc34b113" category="inline-image-macro-rx" type="image"></block>活動記錄會下載為.csf檔案。</block>
+  <block id="209476490c885c2badf49d7123040a54" category="summary">在SaaS Backup for Salesforce中、您可以查看SaaS Backup for Salesforce中的備份記錄數目。</block>
+  <block id="90c59962b478cc16e8bbb360ee351081" category="paragraph">您可以在SaaS Backup for Salesforce中查看備份記錄的數量。</block>
+  <block id="54313281b51c132f6d706ed0ba222d91" category="paragraph">第一次完整備份提供組織層級的備份記錄總數。第一次備份之後、您可以檢視*備份摘要*中建立、更新及刪除的記錄總數。</block>
+  <block id="c2c1492bb3caa6fd5459c27eab83a361" category="list-text">在儀表板中、按一下受保護執行個體的數量（正式作業或沙箱）。</block>
+  <block id="e36da5e56af3a71f7dde2ebc52d0cad9" category="list-text">按一下*備份摘要*下的*檢視*。</block>
+  <block id="5d908cc9bac27394b0aa4bcfdd4867c3" category="inline-image-macro">檢視備份摘要</block>
+  <block id="c561979329d0dd8fcf91a1c1caab9e88" category="paragraph"><block ref="c561979329d0dd8fcf91a1c1caab9e88" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="3667f9b3b8f56949933698aea82c21bf" category="list-text">檢視已建立和刪除的記錄數目、以及表格中所有記錄變更的記錄計數。</block>
+  <block id="a6bfb3846b4d5e45699c4f029100c64c" category="inline-image-macro">備份記錄數</block>
+  <block id="c8c515138f951c36d068ebeafa1734f6" category="paragraph"><block ref="c8c515138f951c36d068ebeafa1734f6" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f387e96d5a789dc7edfa831b4d2663ef" category="list-text">*物件名稱*：包含組織中的所有物件。</block>
+  <block id="4868f3e999004cc4a1f815b936550442" category="list-text">*已建立*-所有已建立及更新的記錄。</block>
+  <block id="7ca34ffb471a3bae498a369e79baf5c1" category="list-text">*刪除*-所有刪除的記錄。</block>
+  <block id="7cb9ad8121e71cfb54fc1dfc96885b1e" category="list-text">*記錄數*：物件的備份變更總數。</block>
+  <block id="7c991d005f914ce2a066331555da8416" category="summary">您可以使用SaaS Backup for Salesforce來比較及還原先前備份的資料。</block>
+  <block id="1a7742e5d7790095a7535e74039ce15a" category="doc">比較及還原備份差異</block>
+  <block id="820808359f2dba65062e92c4315c38fa" category="paragraph">您可以使用SaaS Backup for Salesforce來比較及還原備份差異。</block>
+  <block id="31fc218e2f94beef0d5cf31b25d2fac2" category="inline-image-macro">「工作」按鈕</block>
+  <block id="ea41c668598cccc6da061076c645b4db" category="list-text">在左窗格導覽中、按一下「*工作*」。<block ref="a00d6cf39db2b3fc74cfb953211c2a86" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="75166b4883200fab869e1b76dbf2b602" category="list-text">在*最近完成的工作*下、選取含有您要比較其備份之物件的備份。</block>
+  <block id="8383a8832aa6447282829782c7c0cbf3" category="list-text">按一下組織。</block>
+  <block id="66c7ca2c96168b698ffe1cc97df2c5ac" category="list-text">選取您要比較備份的物件。</block>
+  <block id="6483c07e7bd0bf50c6159055f0679aed" category="inline-image-macro">反白顯示比較圖示的螢幕快照</block>
+  <block id="bee515300b16fdfcec655223d5b847dc" category="list-text">按一下比較圖示。<block ref="dad1c62f0e14287d78bbe63b94250db4" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="46c21254a0427db73808f39459f6a611" category="list-text">在*先前備份*旁、選取您要用於比較的備份的第一個日期。</block>
+  <block id="fe01e7bd0e25e68dd603bdcc75a25fa7" category="list-text">在*目前備份*旁、選取您要用於比較的第二個備份日期。</block>
+  <block id="0212382e69be16297c3177d7fea227cd" category="inline-image-macro">比較按鈕</block>
+  <block id="52baedaec06a2243840a1343b354b5ca" category="list-text">按一下*比較*。<block ref="1facb168eb1e82777f723c86c2b90e0c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="5f8d413dad06f1029158fcfa150a3f78" category="admonition">如果兩個選取的備份之間沒有差異、則不會建立比較工作。</block>
+  <block id="c8314932e95d0cfda713487da83dae98" category="list-text">按一下*檢視工作進度*。</block>
+  <block id="7afed2513cb9c27b585f7d93f0f68b92" category="paragraph">工作完成後、會顯示在*最近完成的工作*下。</block>
+  <block id="83dc371736db1ac195aad053d561c38b" category="inline-image-macro">已完成比較工作、按一下何處可取得結果</block>
+  <block id="aa4d211707926f12044ffc71609814ac" category="list-text">按一下「成功的組織數目」或「成功的組織數目」。<block ref="1284ce252b6ec7d523482a1b4213623f" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="e1ae9ef5f3282256d240fc7525491ac9" category="inline-image-macro">比較工作結果視窗</block>
+  <block id="6482d9b31f7e1a9aed3f4cd57adc82b0" category="paragraph">此時會出現一個視窗、顯示工作狀態。<block ref="9dde3bdc539a315079978dbf64e623c4" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="977d0f76b68dd473cff17a52cf4e7bf5" category="list-text">按一下物件名稱以查看結果。比較工作摘要會顯示、以及在兩個選取的備份之間、物件中建立、更新和刪除的記錄數。您可以選擇下載比較工作詳細資料。</block>
+  <block id="ddf4da8212650068f68aa72b1deb4f6f" category="inline-image-macro">下載比較結果圖示</block>
+  <block id="3899bf4f4dc2b334eb58a37faf722883" category="list-text">若要下載比較工作詳細資料、請按一下 <block ref="7d96c55ac97403a1d7df04d3d156e96b" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="1296121ea5618e39b0f71a0e2a9b6a55" category="list-text">解壓縮檔案以查看結果。</block>
+  <block id="041f67ea175f97633aa134a06a5c1231" category="list-text">按一下*還原*。</block>
+  <block id="218a6df2de43ccf996900a6139e11d59" category="list-text">選取*更新*以還原所有更新的記錄。選取*刪除*以還原所有刪除的記錄。如果有可用的選項、您也可以同時選取這兩個選項。</block>
+  <block id="bb033ba9af8ba2a48b881b33c9a548c7" category="list-text">按一下*相撲*。</block>
+  <block id="0b73755473135196fcafff58d661dea2" category="paragraph">恢復工作時不會覆寫、也不會建立關係。</block>
+  <block id="8070fdc102d390da84f81bb4f3734ddc" category="doc">取消工作</block>
+  <block id="fb946ac62826c08c09ffa9bd4bdf1e4a" category="list-text">按一下左側導覽窗格上的*工作*。</block>
+  <block id="e638d1995e6647b2b7da636d46869bbb" category="list-text">在*最近執行的工作*下、找到您要取消的工作。</block>
+  <block id="2188814b9661f9446f5934ae878cd88b" category="list-text">按一下*取消*。</block>
+  <block id="38f629e4063339d47faa2680fb5430b6" category="summary">您可以使用SaaS Backup for Salesforce還原先前備份的資料。</block>
+  <block id="8a6db028191283c703eed35a59f0f74c" category="paragraph">您可以使用SaaS Backup for Salesforce還原先前備份的資料和中繼資料。</block>
+  <block id="adf8947a481ea3232bf3da08253b821d" category="section-title">還原最近的備份</block>
+  <block id="3c116887cfb620b2ca4a1acf0745d5e7" category="list-text">按一下*受保護的執行個體*數目。</block>
+  <block id="79c4d77aceeed505ab8121e308ff5b4a" category="list-text">按一下組織名稱。<block ref="1817e809bf9d7df296a1d69c4e0dda36" category="inline-image-macro-rx" type="image"></block>隨即顯示物件清單。預設會顯示可恢復的物件。若要檢視不可恢復的物件、請選取「包括不可恢復的物件」。 不可恢復的物件會以灰色圖示表示。紅色圖示代表無法在目前備份中備份、但可從先前的備份中恢復的項目物件。</block>
+  <block id="f0e741adf1f4636010ab7912a90e0d62" category="cell">可恢復的物件</block>
+  <block id="c9896954c6582a1b229339c2a97ed94c" category="cell"><block ref="c9896954c6582a1b229339c2a97ed94c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="ad52f7abc0c5621c70b3fe3794068584" category="cell">不可恢復的物件</block>
+  <block id="a447cb0397bd6db105ae836d1ee69e2a" category="cell"><block ref="a447cb0397bd6db105ae836d1ee69e2a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9c0e39cb5624fcf0b522617c02adfc86" category="cell">失敗的物件</block>
+  <block id="81f36c287489cb43d6cf4e516aca36bb" category="cell"><block ref="81f36c287489cb43d6cf4e516aca36bb" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="b7665370e8e026859a282e595079156d" category="list-text">按一下包含您要還原之個別記錄的物件、然後搜尋特定記錄。</block>
+  <block id="6b351fbbc96bbe0acc4f58cc5cd8c782" category="list-text">按一下 * 還原 * 。<block ref="6a0129bd981fc3ad0e02f2927f1a7ff1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c26a6eb284324a812b915bb8e0b4eb68" category="list-text">選取還原選項。</block>
+  <block id="4f580e38623f62e51cd2cefb3b789d9b" category="list-text">*預設會選取「以覆寫還原*」。此選項會取代您要還原之記錄的現有版本。如果您要保留記錄的目前版本和還原的記錄版本、請取消選取此選項。</block>
+  <block id="fa7d0b38bf1d841cb6d413219f3c8af7" category="list-text">*還原關係*可將父記錄的子記錄與父記錄一起還原至五個層級。如果您未選擇還原關係、則只會還原父記錄。</block>
+  <block id="2bb1a2ca659e89cf061d22c74456e4dc" category="list-text">*匯出資料*可讓您在特定時間點從備份匯出資料。您可以在物件層級或組織層級匯出資料。如需匯出至資料功能的詳細資訊、請前往 <block ref="bd57f30b27e10897ea9932aca05fd4c5" category="inline-link-macro-rx"></block>。</block>
+  <block id="3d644191b8439be769793e5b4338ebd8" category="admonition">匯出工作僅在完成後七天內可用。</block>
+  <block id="ccdd51c8a17863ce99613ded0df18c8f" category="list-text">按一下*提交*。<block ref="003ffff3e7bcb2f603c1adba17df45a8" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8a4ab2bb9b495040fdb7c88debb397b5" category="section-title">從先前的備份還原</block>
+  <block id="b127f46ec5d0998e11976258a86c1d00" category="list-text">按一下*正式作業執行個體*或*沙箱執行個體*。<block ref="0652f08cba27dfe3987a4e25eac06e4d" category="inline-image-macro-rx" type="image"></block>
+<block ref="b8961c53d86fae2a6712f3d9f5271f84" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="3bb7cf21162455d4d3d958f085ec5852" category="list-text">按一下*檢視備份記錄*。</block>
+  <block id="195f666fab10353a7efc8d963642607b" category="list-text">選取以查看特定時間範圍的備份、或選取特定日期的備份。</block>
+  <block id="a4a4358180c5c021fbef8cbc31e589a1" category="list-text">若要選取特定時間範圍的備份、請在右上角按一下*顯示所選備份*旁的下拉式功能表、然後選取預先定義的天數範圍之一。<block ref="14d89ef23a36163ec3edac4f43fddec8" category="inline-image-macro-rx" type="image"></block>此時會顯示所選範圍內發生的備份清單。</block>
+  <block id="a8c25a29c5bda9a5223c09c83c61fc8f" category="list-text">若要選取特定日期的備份、請按一下行事曆上的備份日期、然後選取您要的特定備份。紅色圓圈中的數字表示該日期執行的備份數。個別的綠色圓圈表示個別備份。</block>
+  <block id="b56f1944dfa4fcbfe001c9e029b44e93" category="list-text">按一下包含您要還原之個別記錄的物件、然後搜尋特定記錄。</block>
+  <block id="9173e66cc6de387eb79375a7e947c90a" category="list-text">按一下*提交*。此時會出現一則訊息、指出所選組織正被置於工作佇列中。</block>
+  <block id="7638ba7dd85a6af947a9ff3433ed1d3a" category="section-title">還原中繼資料</block>
+  <block id="a4613816143e18f846e3015a4e661881" category="paragraph">您可以在組織層級或精細層級還原中繼資料。</block>
+  <block id="a652e5b831c8000fa9015a431df04b5c" category="section-title">組織層級的中繼資料還原</block>
+  <block id="a51c1ff158fc7463dfc53f6537d9a1de" category="list-text">轉至*服務*。</block>
+  <block id="82d060b2d9bd2592eaab16c2a2002e24" category="list-text">按一下*受保護*執行個體的數目。</block>
+  <block id="b4fa8b53fbbdaabd05af70acf49f13f5" category="list-text">按一下組織名稱。</block>
+  <block id="357a35aedd0c37deb3a881df778a9bb4" category="list-text">按一下 * 還原 * 。</block>
+  <block id="0e29911c075e29d2f52fcf8c94b9123e" category="list-text">選取還原選項。</block>
+  <block id="1b72fb029709b56f99d13f2d09497620" category="list-text">若要匯出中繼資料、請選取*匯出中繼資料*。隨即建立壓縮檔。</block>
+  <block id="55a44e087a271e69ad074bf4dd9476b8" category="admonition">匯出中繼資料工作可在完成後30天內完成。</block>
+  <block id="4a7c1c167bb54449f29b25eb5e435d3c" category="list-text">若要還原中繼資料、請選取*還原中繼資料*。</block>
+  <block id="0a16681cfbc11c1e3ab8b2028259b888" category="section-title">精細層級的中繼資料還原</block>
+  <block id="7d8bbcc98602d1953273468f90996794" category="list-text">按一下索引標籤*中繼資料類型與元件*。隨即顯示中繼資料類型清單。</block>
+  <block id="0b44a282fea9f318d6aa6fe35f14e417" category="list-text">選取您要還原的中繼資料類型。</block>
+  <block id="ddf2845ff5cfefc8a98c1d794b252068" category="inline-image-macro">匯出及還原中繼資料還原選項</block>
+  <block id="26d55f3915c82135ff8ac17c10c2ded7" category="paragraph"><block ref="26d55f3915c82135ff8ac17c10c2ded7" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="bfb77f116f394c7d1254e3a686773c5c" category="sidebar">NetApp SaaS Backup for Salesforce文件</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">版本資訊</block>
+  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
+  <block id="3b878279a04dc47d60932cb294d96259" category="sidebar">總覽</block>
+  <block id="712a1ac5f9f29147f308f24ea81ba27f" category="sidebar">管理SaaS Backup for Salesforce</block>
+  <block id="91434d2ec1694706c5f6880d6fada769" category="sidebar">檢視資料</block>
+  <block id="1ae8a55f317d3b2570e79a0b4a668040" category="sidebar">提供意見回饋</block>
+  <block id="d648f2a68a54fd1b3329efc3cf24d29c" category="sidebar">法律聲明</block>
+</blocks>

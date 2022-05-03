@@ -1,0 +1,57 @@
+---
+settings:
+  name: SaaS Backup For Salesforce
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  langs: zh-tw,us-en,ja-jp,zh-cn,ko-kr
+sidebar:
+  entries:
+  - title: NetApp SaaS Backup for Salesforce文件
+    url: "/index.html"
+  - title: 版本資訊
+    entries:
+    - title: 新增功能
+      url: "/reference_new_salesforce.html"
+    - title: 已知問題與限制
+      url: "/concept_kpls.html"
+  - title: 總覽
+    url: "/concept_overview.html"
+  - title: 管理SaaS Backup for Salesforce
+    entries:
+    - title: 備份原則
+      url: "/reference_backup_policies.html"
+    - title: 執行立即備份
+      url: "/task_performing_immediate_backup.html"
+    - title: 啟用及停用中繼資料備份
+      url: "/task_enable_disable_metadata_backups.html"
+    - title: 還原資料
+      url: "/task_managing_restores.html"
+    - title: 比較及還原備份差異
+      url: "/task_comparing_restoring.html"
+    - title: 正在清除資料和中繼資料
+      url: "/task_purging_data_&_metadata.html"
+    - title: 重新驗證
+      url: "/task_reauthenticating.html"
+    - title: 取消工作
+      url: "/task_canceling_job.html"
+  - title: 檢視資料
+    entries:
+    - title: 檢視工作歷程記錄
+      url: "/task_viewing_job_history.html"
+    - title: 檢視活動記錄
+      url: "/task_viewing_activity_log.html"
+    - title: 下載活動記錄
+      url: "/task_downloading_activity_log.html"
+    - title: 正在下載匯出資料
+      url: "/task_downloading_export_data.html"
+    - title: 檢視備份記錄
+      url: "/task_viewing_backup_records.html"
+  - title: 提供意見回饋
+    url: "/task_providing_feedback.html"
+  - title: 何處可取得協助及尋找更多資訊
+    url: "/concept_get_help_find_info.html"
+  - title: 法律聲明
+    url: "/reference_legal_notices.html"

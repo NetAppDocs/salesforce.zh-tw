@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: task_providing_feedback.html 
+keywords: netapp, saas backup, salesforce, feedback, questions 
+summary: 提供意見回饋、協助我們為您提供更好的服務。 
+---
+= 提供意見回饋
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+您對NetApp SaaS Backup for Salesforce產品的意見反應、有助於我們為您提供更好的服務。您可以從內部SaaS備份提供意見反應。
+
+
+toc::[]
+.步驟
+. 按一下 image:support.png[""] 在左窗格導覽中。
+. 選擇*意見反應*。
+. 完成簡短的意見回饋調查。
+. 按一下*提交*。
+
+
+如果您想要在正式作業層級文件發行或現有正式作業層級文件有重大變更時自動收到通知、請追蹤Twitter帳戶@NetAppDoc。

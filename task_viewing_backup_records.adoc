@@ -1,0 +1,38 @@
+---
+sidebar: sidebar 
+permalink: task_viewing_backup_records.html 
+keywords: netapp, saas backup, salesforce, viewing, backup, records, count, summary 
+summary: 在SaaS Backup for Salesforce中、您可以查看SaaS Backup for Salesforce中的備份記錄數目。 
+---
+= 檢視備份記錄
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以在SaaS Backup for Salesforce中查看備份記錄的數量。
+
+第一次完整備份提供組織層級的備份記錄總數。第一次備份之後、您可以檢視*備份摘要*中建立、更新及刪除的記錄總數。
+
+.步驟
+. 在儀表板中、按一下受保護執行個體的數量（正式作業或沙箱）。
+. 按一下*備份摘要*下的*檢視*。
++
+image:click_view_backup_summary.png["檢視備份摘要"]
+
+. 檢視已建立和刪除的記錄數目、以及表格中所有記錄變更的記錄計數。
++
+image:record_count.png["備份記錄數"]
+
++
+** *物件名稱*：包含組織中的所有物件。
+** *已建立*-所有已建立及更新的記錄。
+** *刪除*-所有刪除的記錄。
+** *記錄數*：物件的備份變更總數。
+
+
+

@@ -1,0 +1,61 @@
+---
+sidebar: sidebar 
+permalink: concept_kpls.html 
+keywords: netapp, saas backup, salesforce, known, problems, limitations, release, notes 
+summary: 您應該瞭解某些SaaS備份已知的問題和限制。 
+---
+= 已知問題與限制
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+以下是適用於Salesforce已知問題與限制的SaaS備份清單。
+
+
+
+== 某些物件的備份記錄遺失（瑕疵#1169）
+
+在組織完成完整備份或遞增備份之後、發現記錄總數與下載記錄總數的計數可能有小差異。當特定欄位新增至查詢、導致Salesforce API無法傳回所有記錄時、就會發生這種情況。
+
+
+
+== 不支援還原架構變更之前備份的記錄（瑕疵#1170）
+
+SaaS備份不支援還原架構變更之前備份的記錄。如果嘗試執行此操作、還原將會失敗、並顯示下列訊息：*由於架構變更而導致還原失敗*。
+
+
+
+== 從備份中排除的物件
+
+SaaS備份for Salesforce不會備份下列物件：
+
+* 無法使用Salesforce API查詢的物件
+* 不支援一般查詢的物件
+* Salesforce用來追蹤物件中記錄欄位層級變更歷程記錄的歷程記錄物件。
+
+
+
+
+== 私有預覽不支援的功能
+
+下列功能不支援使用於私有預覽版本的SaaS Backup for Salesforce。
+
+* Salesforce聊天者
+* 下列關係類型
++
+** N：1至N：N關係
+** 自我關係
+** 循環關係
+
+
+

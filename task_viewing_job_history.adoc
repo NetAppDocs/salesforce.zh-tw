@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: task_viewing_job_history.html 
+keywords: netapp, saas backup, salesforce, viewing, job, history 
+summary: 您可以檢視SaaS Backup for Salesforce中已完成、已取消或失敗的所有工作清單。 
+---
+= 檢視工作歷程記錄
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+
+
+== 檢視工作歷程記錄
+
+您可以檢視SaaS Backup for Salesforce中已完成、已取消或失敗的所有工作清單。
+
+.步驟
+. 在左窗格導覽中、按一下*報告*。image:reporting.jpg[""]隨即顯示工作歷程記錄。
+. 按一下右上角的*篩選*。image:filter.jpg[""]
+. 選取您要用來精簡報告結果的篩選條件。您可以依備份原則、服務或工作類型進行篩選。
+. 按一下「*搜尋*」方塊、然後選取您要查看結果的特定備份原則、服務或工作類型。視需要新增其他篩選器。image:reporting_filter.jpg[""]
+. 按一下「*套用篩選條件*」。
+

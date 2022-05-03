@@ -1,0 +1,53 @@
+---
+sidebar: sidebar 
+permalink: task_enable_disable_metadata_backups.html 
+keywords: netapp, saas backup, salesforce, enable, enabling, disable, disabling, backup, backups, metadata, metadata backups 
+summary: 您可以啟用或停用Salesforce的中繼資料備份。 
+---
+= 啟用及停用中繼資料備份
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+您可以啟用或停用Salesforce的中繼資料備份。
+
+
+
+== 啟用中繼資料備份
+
+啟用中繼資料備份可為租戶帳戶內的所有組織提供中繼資料備份。
+
+.步驟
+. 按一下 image:icon_gear.gif["齒輪圖示"] 並在*服務設定*下選取* Salesforce *。
++
+image:select_salesforce_settings.gif["Salesforce設定"]
+
+. 按一下*啟用中繼資料備份*以開啟此功能。在租戶層級啟用之後、將會備份所有組織的中繼資料。
+
+
+
+
+== 停用中繼資料備份
+
+您可以在組織層級停用中繼資料備份。啟用所有組織的中繼資料備份之後、即可控制哪些組織不會進行中繼資料備份。
+
+.步驟
+. 若要停用中繼資料備份、請前往*服務*。
+. 選擇*正式作業執行個體*或*沙箱執行個體*。
+. 選取*受保護*執行個體的數目。
+. 選取您要停用中繼資料備份的組織。
+. 按一下*中繼資料備份*以關閉此功能。
++
+image:disable_metadata_backup.gif["停用中繼資料備份"]
+
+

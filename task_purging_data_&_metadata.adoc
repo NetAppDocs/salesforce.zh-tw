@@ -1,0 +1,48 @@
+---
+sidebar: sidebar 
+permalink: task_purging_data_&_metadata.html 
+keywords: netapp, saas backup, salesforce, sandbox, production, instance, purge, purging, purging data, metadata, retention, metadata retention, retain and purge, show purged list 
+summary: 您可以清除Salesforce組織的資料。 
+---
+= 正在清除資料和中繼資料
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+您可以清除Salesforce組織的資料。在*帳戶設定*中管理組織層級的資料清除作業。
+
+SaaS Backup for Salesforce會自動管理中繼資料保留與清除。中繼資料會保留90天。90天後、中繼資料會被清除。
+
+
+
+== 清除資料
+
+您隨時都可以選擇清除特定組織的資料、例如未使用的Salesforce組織。
+
+您可以清除資料以重新整理正式作業或沙箱執行個體。
+
+您也可能想要新增另一個正式作業或沙箱執行個體。若要這麼做、您必須清除正式作業或沙箱執行個體。
+
+.步驟
+. 按一下 image:icon_gear.gif["齒輪圖示"] 然後按一下 image:account_settings.gif["帳戶設定"]。
+. 按一下*保留並清除*。
+. 在*保留和清除*下、向下捲動至*清除資料*。
+. 選擇*供應商類型*和*服務名稱*。
+. 搜尋或選取組織ID。
+. 按一下「 * 儲存 * 」。系統會彈出一則訊息、供您確認或取消清除。
+. 按一下「*是*」確認清除。如果您按一下*是*、則可將清除的資料恢復最多七天。
+. 按一下「*顯示清除清單*」以查看排程清除的清單。
++
+image:purged_list_example.gif["清除清單範例"]
+
+

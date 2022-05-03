@@ -1,0 +1,40 @@
+---
+sidebar: sidebar 
+permalink: reference_backup_policies.html 
+keywords: netapp, saas backup, salesforce, managing, backups, backup, policies, tier, tiers 
+summary: 您可以使用SaaS Backup for Salesforce來備份資料。 
+---
+= 備份原則
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+SaaS Backup for Salesforce有三種預先定義的備份原則層級。這些原則層級在備份頻率和資料保留期間各不相同。正式作業執行個體只能受到層級1原則的保護。沙箱執行個體可受到第2層和第3層原則的保護。
+
+具有* Active*狀態的備份原則是已指派項目進行備份的原則。狀態為* Inactive*的備份原則並未指派備份項目。
+
+|===
+| 備份原則 | 備份頻率 | 預設資料保留期間 | 提供保護 
+
+
+| 第1層 | 每12小時一次 | 3年 | 正式作業執行個體 
+
+
+| 第2層 | 每18小時一次 | 2年 | 沙箱執行個體 
+
+
+| 第3層 | 每24小時一次 | 2年 | 沙箱執行個體 
+
+
+| 未受保護 | 未備份 | 未備份 | 正式作業和沙箱執行個體 
+|===

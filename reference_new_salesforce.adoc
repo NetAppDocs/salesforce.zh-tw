@@ -1,0 +1,69 @@
+---
+sidebar: sidebar 
+permalink: reference_new_salesforce.html 
+keywords: 'what"s new, features, new, release notes, enhancements' 
+summary: SaaS Backup for Salesforce會定期推出新版本、為您帶來新功能、增強功能和錯誤修正。 
+---
+= 新功能與更新
+:toc: macro
+:hardbreaks:
+:toclevels: 2
+:allow-uri-read: 
+:toc: 
+:toclevels: 2
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+此版本的NetApp SaaS Backup for Salesforce新增下列新功能與更新。
+
+
+
+== 2020年12月
+
+* SaaS Backup for Salesforce現在可還原中繼資料。此功能增強功能包括組織層級的還原、以及針對中繼資料進行精細層級的單一或多個項目還原。
++
+組織層級的中繼資料還原
+
++
+image:org_level_restore_metadata_option_cropped.png["組織層級的中繼資料還原選項已切分"]
+
++
+精細層級的中繼資料還原
+
++
+image:restore_options_export-restore_metadata.png["匯出及還原中繼資料選項"]
+
++
+link:task_managing_restores.html["還原資料"]
+
+* 「*備份摘要*」是SaaS Backup for Salesforce的一項功能增強功能、可讓您取得所有已建立、更新及刪除的記錄總數。它可讓您檢查備份記錄的數量是否與您的Salesforce帳戶相符。
++
+link:task_viewing_backup_records.html["檢視備份記錄"]
+
+
+
+
+
+== 2020年10月
+
+* SaaS Backup for Salesforce現在備份中繼資料。此功能增強功能包括備份、物件和組織層級還原、以及清除您所建立的中繼資料。UI也有一個新的索引標籤*中繼資料類型和元件*、您可以在其中查看中繼資料備份。這些頁面提供此新功能的詳細資訊：
++
+link:task_enable_disable_metadata_backups.html["啟用和停用中繼資料"]
+link:task_managing_restores.html["還原資料"]
+
+* 從2020年10月開始、您可以清除資料。中繼資料會在90天後自動清除。
++
+link:task_purging_data_&_metadata.html["正在清除資料和中繼資料"]
+
+
+
+
+
+== 2020年2月
+
+您現在可以在物件和組織層級匯出資料。您可以針對每個匯出、從先前的備份下載附件、結果和統計資料。link:task_downloading_export_data.html["正在下載匯出資料"]
