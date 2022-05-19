@@ -18,10 +18,7 @@ summary: 您可以檢視SaaS Backup for Salesforce中已完成、已取消或失
 :toc-position: content
 
 
-
-
-== 檢視工作歷程記錄
-
+[role="lead"]
 您可以檢視SaaS Backup for Salesforce中已完成、已取消或失敗的所有工作清單。
 
 .步驟
